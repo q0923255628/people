@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FudanPed</folder>
+	<filename>FudanPed00610.jpg</filename>
+	<path>C:\Users\q0920\Desktop\FudanPed\FudanPed00610.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>278</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>29</ymin>
+			<xmax>247</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
